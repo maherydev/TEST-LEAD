@@ -1,0 +1,26 @@
+  span {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+    background-color: #e49631;
+    padding:1px;
+    text-align:center;
+  }
+  #textbarside{
+      font-family: Calibri;
+      font-size:20px;
+      font-weight:bolder;
+      color:white;
+  }
+  .btncolor{
+      background-color:#e49631;
+  }
+ #h3center{
+    margin-left: 95px;
+  }
+  .bgform{
+     background-color: #f9f0e1;
+  }
+
+
